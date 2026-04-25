@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Pushkar Vijay Kumar <br>Studying at Bennett University <br>Pursuing B.Tech CSE <br>[CodeChef](https://www.codechef.com/users/lycurgus)
+My name is Pushkar Vijay Kumar <br>Studying at Bennett University <br>Pursuing B.Tech CSE <br>![CodeChef](https://www.codechef.com/users/lycurgus)
 ## 🌐 Socials:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
 # 💻 Tech Stack:
